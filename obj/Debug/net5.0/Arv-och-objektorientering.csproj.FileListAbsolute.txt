@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/Arv-och-objektorientering.deps.json
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/Arv-och-objektorientering.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/Arv-och-objektorientering.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/Arv-och-objektorientering.dll
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/ref/Arv-och-objektorientering.dll
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/bin/Debug/net5.0/Arv-och-objektorientering.pdb
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.dll
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/ref/Arv-och-objektorientering.dll
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.pdb
+/Users/hibba/Documents/GitHub/Arv-och-objektorientering/obj/Debug/net5.0/Arv-och-objektorientering.genruntimeconfig.cache
