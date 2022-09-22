@@ -5,4 +5,8 @@ abstract class Shape{
         this.height = height;
         this.width = width;
     }
+    public virtual void Omkrets(){
+    }
+    public virtual void Area(){
+    }
 }

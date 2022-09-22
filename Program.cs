@@ -16,7 +16,7 @@ namespace Arv_och_objektorientering
                     Console.WriteLine("Please input a height and a width (height first, width last)");
                     height = int.Parse(Console.ReadLine());
                     width = int.Parse(Console.ReadLine());
-                    Triangle triangle = new Triangle(height, width);
+                    Shape triangle = new Triangle(height, width);
                     triangle.Area();
                     triangle.Omkrets();
                     Loop++;
@@ -25,7 +25,9 @@ namespace Arv_och_objektorientering
                     Console.WriteLine("Please input a height and a width (height first, width last)");
                     height = int.Parse(Console.ReadLine());
                     width = int.Parse(Console.ReadLine());
-                    Rectangle rectangle = new Rectangle(height, width);
+                    Shape rectangle = new Rectangle(height, width);
+                    rectangle.Area();
+                    rectangle.Omkrets();
                     Loop++;
                 }
                 else{
